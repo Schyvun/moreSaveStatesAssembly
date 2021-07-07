@@ -1,5 +1,10 @@
 using System;
-
+using System.Collections;
+using System.IO;
+using System.Reflection;
+using GlobalEnums;
+using UnityEngine;
+using UnityEngine.SceneManagement;
 namespace Patches
 {
 	[Serializable]
